@@ -4,8 +4,8 @@
 |-----|---|
 |High Score|Саша|
 |Mini game|Саша|
-|Map|Даниил|
-|Player|Даниил|
-|Cave|Даниил|
+|Map|Толя|
+|Player|Толя|
+|Cave|Толя|
 |Graphics|Никита|
 |Game Control|Толя|
