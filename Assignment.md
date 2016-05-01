@@ -6,6 +6,6 @@
 |Mini game|Саша|
 |Map|Толя|
 |Player|Толя|
-|Cave|Толя|
+|Cave|Саша|
 |Graphics|Никита|
 |Game Control|Толя|
